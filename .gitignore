@@ -1,0 +1,8 @@
+# QT
+.Debug
+.Release
+debug
+release
+.user
+Makefile
+
